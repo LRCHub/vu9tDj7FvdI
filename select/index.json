@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ラビリンス",
+  "base_artist": "higma",
+  "createdAt": "2026-02-17T15:47:32.291969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラビリンス",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/01_ラビリンス_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラビリンス '97",
+      "artist": "chelmico",
+      "has_synced": true,
+      "path": "select/02_ラビリンス_'97_chelmico.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Labyrinth '97 [ラビリンス' 97]",
+      "artist": "chelmico",
+      "has_synced": true,
+      "path": "select/03_Labyrinth_'97_[ラビリンス'_97]_chelmico.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラビリンス",
+      "artist": "Mondo Grosso, Hikari Mitsushima",
+      "has_synced": true,
+      "path": "select/04_ラビリンス_Mondo_Grosso,_Hikari_Mitsushima.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラビリンス (Album Mix) ft.満島ひかり",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/05_ラビリンス_(Album_Mix)_ft.満島ひかり_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラビリンス",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/06_ラビリンス_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラビリンス(Acoustic Mix)",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/07_ラビリンス(Acoustic_Mix)_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラビリンス",
+      "artist": "MONDO GROSSO [Vocal:満島ひかり]",
+      "has_synced": true,
+      "path": "select/08_ラビリンス_MONDO_GROSSO_[Vocal_満島ひかり].lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラビリンス (Album Mix)",
+      "artist": "MONDO GROSSO [Vocal:満島ひかり]",
+      "has_synced": true,
+      "path": "select/09_ラビリンス_(Album_Mix)_MONDO_GROSSO_[Vocal_満島ひかり].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラビリンス",
+      "artist": "Mondo Grosso",
+      "has_synced": true,
+      "path": "select/10_ラビリンス_Mondo_Grosso.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MONDO GROSSO / ラビリンス",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/11_MONDO_GROSSO___ラビリンス_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラビリンス (Album Mix)",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/12_ラビリンス_(Album_Mix)_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "白い迷い (ラビリンス) - 2012 Remaster",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/13_白い迷い_(ラビリンス)_-_2012_Remaster_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "MONDO GROSSO / ラビリンス",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/14_MONDO_GROSSO___ラビリンス_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラビリンス (Album Mix) [Vocal:満島ひかり]",
+      "artist": "MONDO GROSSO",
+      "has_synced": true,
+      "path": "select/15_ラビリンス_(Album_Mix)_[Vocal_満島ひかり]_MONDO_GROSSO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラビリンス",
+      "artist": "higma feat. 夢ノ結唱 POPY",
+      "has_synced": false,
+      "path": "select/pl_01_ラビリンス_higma_feat._夢ノ結唱_POPY.txt"
+    }
+  ]
+}
